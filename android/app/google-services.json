@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "45062313369",
+    "project_id": "yukcamping-a8ec2",
+    "storage_bucket": "yukcamping-a8ec2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45062313369:android:a36c61d95e167659e32f08",
+        "android_client_info": {
+          "package_name": "com.example.yukcamping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45062313369-svf2k7r8him9d3h2okpfjeujmto64j89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlEShPLPhuC7CVbEBfpfAWyB7n5RSY8X8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45062313369-svf2k7r8him9d3h2okpfjeujmto64j89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
