@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![Masih Dalam Proses Berikut Adalah ScreenShotnya](asset/hasil.png)
+![Masih Dalam Proses Berikut Adalah ScreenShotnya](assets/hasil.png)
 
 This project is a starting point for a Flutter application.
 
